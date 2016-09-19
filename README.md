@@ -1,2 +1,2 @@
-# js-git-test
-A testing repo for js-git
+# JS-GIT-TEST
+A TESTING REPO FOR JS-GIT
